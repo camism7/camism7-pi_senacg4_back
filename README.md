@@ -1,7 +1,7 @@
 # Psychological Care Management App
 
-# Projeto PI Senac GP20
-Repositórios do frontend e backend do projeto PI Senac GP20.
+# Projeto PI Senac GP04
+Repositórios do frontend e backend do projeto PI Senac GP04.
 
 ## Descrição
 O **Psychological Care Management App** é uma aplicação desenvolvida para facilitar o gerenciamento de atendimentos psicológicos. Desta forma, democratizando o acesso a serviços de saúde mental, como sessões de terapia e psicologia, oferecendo uma plataforma que simplifica o agendamento de atendimentos psicológicos e terapêuticos, promovendo a educação em saúde mental e incentivando o bem-estar integral dos usuários.
@@ -37,17 +37,17 @@ Certifique-se de ter instalado em sua máquina:
 #### Clonar os repositórios
 1. **Clonar o repositório do frontend:**
    ```sh
-   git clone https://github.com/camism7/pi_senac_gp20_FRONT.git
+   git clone https://github.com/camism7/pi_senacg4_front.git
    ```
 2. **Clonar o repositório do backend:**
    ```sh
-   git clone https://github.com/camism7/pi_senac_gp20_BACK.git
+   git clone https://github.com/camism7/pi_senacg4_back.git
    ```
 
 #### Executar o Frontend
 3. **Acessar o diretório do frontend:**
    ```sh
-   cd pi_senac_gp20_FRONT
+   cd pi_senacg4_front
    ```
 4. **Instalar as dependências:**
    ```sh
@@ -64,7 +64,7 @@ Certifique-se de ter instalado em sua máquina:
 #### Executar o Backend
 7. **Acessar o diretório do backend:**
    ```sh
-   cd ../pi_senac_gp20_BACK
+   cd ../pi_senacg4_back
    ```
 8. **Instalar as dependências:**
    ```sh
@@ -103,5 +103,3 @@ Milson Barbosa da Silva
 
 Túlio Henrique de Araujo
 
-
-**Professor: Gustavo Calixto**roubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
